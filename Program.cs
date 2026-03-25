@@ -21,6 +21,20 @@ namespace Modul4_103022400044
             Console.WriteLine("Traveler  :" + kodePaket.getKodePaket("Traveler"));
 
             Console.WriteLine();
+            Console.WriteLine("=== Uji State Mesin Kopi ===");
+
+            MesinKopi mesin = new MesinKopi();
+
+            mesin.UbahState(StateMesin.STANDBY);
+            mesin.UbahState(StateMesin.BREWING);
+            mesin.UbahState(StateMesin.STANDBY);
+            mesin.UbahState(StateMesin.MAINTENANCE);
+            mesin.UbahState(StateMesin.STANDBY);
+            mesin.UbahState(StateMesin.OFF);
+
+            Console.WriteLine();
+            Console.WriteLine("=== Uji Perubahan State Tidak Valid ===");
+            mesin.UbahState(StateMesin.BREWING);
         }
     }
 }

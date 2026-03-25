@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|c:\\users\\shidiq\\documents\\kpl\\modul4_103022400044\\mesinkopi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|solutionrelative:mesinkopi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|c:\\users\\shidiq\\documents\\kpl\\modul4_103022400044\\statemesin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|solutionrelative:statemesin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|c:\\users\\shidiq\\documents\\kpl\\modul4_103022400044\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDBD79B2-E37C-7477-5502-6678A404C354}|Modul4_103022400044.csproj|solutionrelative:kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,19 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KodePaket.cs",
-              "DocumentMoniker": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\KodePaket.cs",
-              "RelativeDocumentMoniker": "KodePaket.cs",
-              "ToolTip": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\KodePaket.cs",
-              "RelativeToolTip": "KodePaket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Title": "MesinKopi.cs",
+              "DocumentMoniker": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\MesinKopi.cs",
+              "RelativeDocumentMoniker": "MesinKopi.cs",
+              "ToolTip": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\MesinKopi.cs",
+              "RelativeToolTip": "MesinKopi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T23:55:16.78Z",
+              "WhenOpened": "2026-03-25T00:22:54.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateMesin.cs",
+              "DocumentMoniker": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\StateMesin.cs",
+              "RelativeDocumentMoniker": "StateMesin.cs",
+              "ToolTip": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\StateMesin.cs",
+              "RelativeToolTip": "StateMesin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:20:17.169Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +62,22 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T23:48:05.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KodePaket.cs",
+              "DocumentMoniker": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\KodePaket.cs",
+              "RelativeDocumentMoniker": "KodePaket.cs",
+              "ToolTip": "C:\\Users\\Shidiq\\Documents\\KPL\\Modul4_103022400044\\KodePaket.cs",
+              "RelativeToolTip": "KodePaket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T23:55:16.78Z",
               "EditorCaption": ""
             }
           ]
